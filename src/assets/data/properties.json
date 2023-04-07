@@ -1,0 +1,255 @@
+[
+    {
+        "id": 0,
+        "location":{
+            "street": {
+                "name": "Campfire St.Hallandale",
+                "number": 23
+            },
+            "city": "New York",
+            "country": "USA"
+        },
+        "status":"Rent",
+        "price": 5800,
+        "type":"House",
+        "rooms":4,
+        "owner": {
+            "firstName": "Connie",
+            "lastName": "Lynch",
+            "email": "connielynch@gmail.com",
+            "phoneNumber": "+345-231-2312"
+        },
+        "date":"2018-1-5",
+        "img":"g1.jpg"
+    },
+    {
+        "id": 1,
+        "location":{
+            "street": {
+                "name": "Ann Street Reston",
+                "number": 8848
+            },
+            "city": "Paris",
+            "country": "France"
+        },
+        "status":"Rent",
+        "price": 250000,
+        "type":"House",
+        "rooms":4,
+        "owner": {
+            "firstName": "Loren",
+            "lastName": "Santiago",
+            "email": "sloren@gmail.com",
+            "phoneNumber": "+312-232-3216"
+        },
+        "date":"2019-5-7",
+        "img":"g2.jpg"
+    },
+    {
+        "id": 2,
+        "location":{
+            "street": {
+                "name": "Essex Lane Cranberry Twp",
+                "number": 47
+            },
+            "city": "Paris",
+            "country": "France"
+        },
+        "status":"Sale",
+        "price": 300000,
+        "type":"Apartment",
+        "rooms":4,
+        "owner": {
+            "firstName": "Rosemary",
+            "lastName": "Sherman",
+            "email": "rsherman@gmail.com",
+            "phoneNumber": "+123-453-234"
+        },
+        "date":"2019-10-2",
+        "img":"g3.jpg"
+    },
+    {
+        "id": 3,
+        "location":{
+            "street": {
+                "name": "Carson St. Southfield",
+                "number": 47
+            },
+            "city": "Paris",
+            "country": "France"
+        },
+        "status":"Sale",
+        "price": 50000,
+        "type":"Apartment",
+        "rooms":4,
+        "owner": {
+            "firstName": "Susan",
+            "lastName": "Townsend",
+            "email": "stownsend@gmail.com",
+            "phoneNumber": "+342-756-885"
+        },
+        "date":"2020-1-4",
+        "img":"g4.jpg"
+    },
+    {
+        "id": 4,
+        "location":{
+            "street": {
+                "name": "Sunset Rd. Westerville",
+                "number": 96
+            },
+            "city": "New York",
+            "country": "USA"
+        },
+        "status":"Sale",
+        "price": 30000,
+        "type":"Apartment",
+        "rooms":4,
+        "owner": {
+            "firstName": "Joe",
+            "lastName": "Wells",
+            "email": "jwells@gmail.com",
+            "phoneNumber": "+567-234-533"
+        },
+        "date":"2019-12-31",
+        "img":"g5.jpg"
+    },
+    {
+        "id": 5,
+        "location":{
+            "street": {
+                "name": "Church Drive Erlanger",
+                "number": 85
+            },
+            "city": "Paris",
+            "country": "France"
+        },
+        "status":"Sale",
+        "price": 40000,
+        "type":"Land",
+        "rooms":2,
+        "owner": {
+            "firstName": "Katherine",
+            "lastName": "Morton",
+            "email": "kmothon@gmail.com",
+            "phoneNumber": "+453-2134-234"
+        },
+        "date":"2018-11-4",
+        "img":"h2.jpg"
+    },
+    {
+        "id": 6,
+        "location":{
+            "street": {
+                "name": "Circle Street Metairie",
+                "number": 94
+            },
+            "city": "Los Angeles",
+            "country": "USA"
+        },
+        "status":"Rent",
+        "price": 4000,
+        "type":"Land",
+        "rooms":3,
+        "owner": {
+            "firstName": "Myrtle",
+            "lastName": "Montgomery",
+            "email": "mmontegomery@gmail.com",
+            "phoneNumber": "+333-234-757"
+        },
+        "date":"2019-9-6",
+        "img":"h3.jpg"
+    },
+    {
+        "id": 7,
+        "location":{
+            "street": {
+                "name": "Bald Hill St. Annandale",
+                "number": 973
+            },
+            "city": "Los Angeles",
+            "country": "USA"
+        },
+        "status":"Rent",
+        "price": 3000,
+        "type":"Apartment",
+        "rooms":1,
+        "owner": {
+            "firstName": "Myrtle",
+            "lastName": "Montgomery",
+            "email": "kmothon@gmail.com",
+            "phoneNumber": "+453-2134-234"
+        },
+        "date":"2019-9-6",
+        "img":"h4.jpg"
+    },
+    {
+        "id": 8,
+        "location":{
+            "street": {
+                "name": "6th St.Downers Grove",
+                "number": 7550
+            },
+            "city": "Los Angeles",
+            "country": "USA"
+        },
+        "status":"Sale",
+        "price": 938598 ,
+        "type":"Apartment",
+        "rooms":3,
+        "owner": {
+            "firstName": "Lynn",
+            "lastName": "Fields",
+            "email": "lfields@gmail.com",
+            "phoneNumber": "+675-456-333"
+        },
+        "date":"2018-2-16",
+        "img":"h5.jpeg"
+    },
+    {
+        "id": 9,
+        "location":{
+            "street": {
+                "name": "High Ridge Court Monroeville",
+                "number": 8968
+            },
+            "city": "Paris",
+            "country": "France"
+        },
+        "status":"Sale",
+        "price": 85000,
+        "type":"House",
+        "rooms":4,
+        "owner": {
+            "firstName": "Cecilia",
+            "lastName": "Gray",
+            "email": "cgray@gmail.com",
+            "phoneNumber": "+321-452-512"
+        },
+        "date":"2019-8-1",
+        "img":"h7.png"
+    },
+    {
+        "id": 10,
+        "location":{
+            "street": {
+                "name": "East Railroad Ave.Odenton",
+                "number": 92
+            },
+            "city": "Madrid",
+            "country": "Spain"
+        },
+        "status":"Sale",
+        "price": 769830,
+        "type":"Apartment",
+        "rooms":4,
+        "owner": {
+            "firstName": "Dan",
+            "lastName": "Hayes",
+            "email": "dhays@gmail.com",
+            "phoneNumber": "+141-444-555"
+        },
+        "date":"2019-12-1",
+        "img":"h9.jpeg"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Home",
+        "href":""
+    },
+    {
+        "name":"Find a Property",
+        "href":"properties"
+    },
+    {
+        "name":"Author",
+        "href":"author"
+    }
+]
